@@ -1,0 +1,1 @@
+{"data":[{"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAJ%2BTSAAAAAAACNT0%2BaOCR66pkR8Pwt3%2BLXj%2BZDU%3D7DhxREniQfllBXl655drdWNM7zy22pTO5o6rTEgPY"}]}

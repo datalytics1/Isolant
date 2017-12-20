@@ -1,0 +1,674 @@
+BJ05013;BJ;Zona Rural Crespo;Crespo;Entre Rios
+BJ05013;BJ;Zona Rural Crespo;Crespo;Entre Rios
+BJ05105;BJ;Zona Rural Rafaela;Rafaela;Santa Fe
+BJ05106;BJ;Escuela En Santa Fe;Santa Fe;Santa Fe
+BJ05105;BJ;Zona Rural Rafaela;Rafaela;Santa Fe
+BJ05106;BJ;Escuela En Santa Fe;Santa Fe;Santa Fe
+BJ05105;BJ;Zona Rural Rafaela;Rafaela;Santa Fe
+BJ05106;BJ;Escuela En Santa Fe;Santa Fe;Santa Fe
+BJ05105;BJ;Zona Rural Rafaela;Rafaela;Santa Fe
+BJ05106;BJ;Escuela En Santa Fe;Santa Fe;Santa Fe
+BJ05105;BJ;Zona Rural Rafaela;Rafaela;Santa Fe
+BJ05106;BJ;Escuela En Santa Fe;Santa Fe;Santa Fe
+BJ05105;BJ;Zona Rural Rafaela;Rafaela;Santa Fe
+BJ05106;BJ;Escuela En Santa Fe;Santa Fe;Santa Fe
+RS01042;RS;Dalvian M51 L3;Las Heras;Mendoza
+RS01043;RS;Dalvian Los Puquios Al Final;Las Heras;Mendoza
+RS01044;RS;Solfrut San Juan;San Juan;San Juan
+RS01045;RS;Clop Acceso Sur;Lujan De Cuyo;Mendoza
+RS01046;RS;Renta Loft Lujan;Lujan De Cuyo;Mendoza
+RS01049;RS;Colegio El Huerto;Lujan De Cuyo;Mendoza
+RS01052;RS;Olivicola Bianchi;San Martin;Mendoza
+RS01056;RS;Biblioteca Tupungato;Tupungato;Mendoza
+RS01057;RS;Costa De Araujo;Lavalle;Mendoza
+RS01058;RS;Rincon De Araos L34;Lujan De Cuyo;Mendoza
+RS01060;RS;Hospital Tagarelli;San Carlos;Mendoza
+RS01061;RS;Teatro Mendoza;Mendoza;Mendoza
+RS01067;RS;La Taberna Chacras;Chacras De Coria;Mendoza
+RS01068;RS;Complejo Talcahuano;Guaymallen;Mendoza
+RS01073;RS;Centro Comercial Carrodilla;Carrodilla;Mendoza
+RS01074;RS;Concesonario Toyota;Villa Mercedes;San Luis
+RS01075;RS;San Francisco  Calle Los Alamos;Guaymallen;Mendoza
+RS01076;RS;Guardia Vieja M D C7;Vistalba;Mendoza
+RS01077;RS;Villa Tulumaya;Lavalle;Mendoza
+RS01078;RS;San Luis;San Luis;San Luis
+RS01079;RS;Cabanas La Capilla;La Consulta - San Carlos;Mendoza
+RS01081;RS;Barrio Bellavista San Martin;San Juan;San Juan
+RS01084;RS;Aceites Del Valle;San Carlos;Mendoza
+RS01085;RS;El Tunduque;San Carlos;Mendoza
+RS01086;RS;Barrio El Tunduque;San Carlos;Mendoza
+RS01089;RS;Concesionario Vw;Lujan De Cuyo;Mendoza
+RS01090;RS;Bodega Catena;Chacras De Coria;Mendoza
+RS01103;RS;Obrador Ceosa;Malargüe;Mendoza
+RS01104;RS;Callejon San Jose;Las Compuertas;Mendoza
+RS01107;RS;Rincon De Mitre;Maipu;Mendoza
+RS01109;RS;Afip Aduana;Uspallata - Las Heras;Mendoza
+RS01111;RS;La Bastilla L4;Las Heras;Mendoza
+RS01113;RS;Industrias Baggio;San Carlos;Mendoza
+RS01114;RS;Barrio Canciller;Maipu;Mendoza
+RS01118;RS;Rincon Viamonte;Chacras De Coria;Mendoza
+RS01121;RS;Deposito Panocchia;Godoy Cruz;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+DO01226;DO;Valle Cercano Semprino;Cordoba;Cordoba
+DO01227;DO;San Marcos Sierra;Tanti;Cordoba
+DO01228;DO;Suerez De Figueroa;Cordoba;Cordoba
+DO01229;DO;Aguilanti Cosquin;Cosquin;Cordoba
+DO01230;DO;Cotagro Dos;General Deheza;Cordoba
+DO01231;DO;La Coruna;Cordoba;Cordoba
+DO01232;DO;Autocity;Cordoba;Cordoba
+DO01233;DO;Jacobo Pablo;Tanti;Cordoba
+DO01234;DO;Vgb;Villa General Belgrano;Cordoba
+DO01235;DO;Aguilanti Aluf;Saldan;Cordoba
+DO01236;DO;Cancha De Basquet;Resistencia;Chaco
+DO01237;DO;Emanuel Sofi;Cordoba;Cordoba
+DO01238;DO;Iron Pak;Cordoba;Cordoba
+DO01239;DO;Agd Escuela;General Deheza;Cordoba
+DO01240;DO;Agd Chancheria;General Deheza;Cordoba
+DO01241;DO;Mariana Benicio;Cordoba;Cordoba
+DO01242;DO;Cotag;General Cabrera;Cordoba
+DO01243;DO;Massaccesi Analia;Cordoba;Cordoba
+DO01244;DO;Cesar Castillo Sola;Santiago Del Estero;Santiago Del Estero
+DO01245;DO;Juaquin Brizuela;Santiago Del Estero;Santiago Del Estero
+DO01246;DO;Profesorado Dos;Santiago Del Estero;Santiago Del Estero
+DO01247;DO;Castillo;Cordoba;Cordoba
+DO01248;DO;Gomeria;Santiago Del Estero;Santiago Del Estero
+DO01249;DO;Hospital Regional Sde( Ipvu);Santiago Del Estero;Santiago Del Estero
+DO01251;DO;Gerardo Lloves;Cordoba;Cordoba
+DO01252;DO;Gustavo Rivas Poman;Catamarca;Catamarca
+DO01253;DO;Santa Fe Esq. Sarmiento.;Santiago Del Estero;Santiago Del Estero
+DO01255;DO;Pepe Heredia;Cordoba;Cordoba
+DO01256;DO;Pilar;Rio Segundo;Cordoba
+DO01257;DO;Va Del Rosario Local Comercial;Villa Del Rosario;Cordoba
+DO01258;DO;Locales  Don Bosco;Villa Del Rosario;Cordoba
+DO01259;DO;Cablevision;Cordoba;Cordoba
+DO01260;DO;Recreo Catamrca Presoti;Catamarca;Catamarca
+DO01261;DO;Fernando Capozucca( Estancia Vieja);Colonia Caroya;Cordoba
+DO01262;DO;Siempreto Gustavo;Rio Segundo;Cordoba
+DO01263;DO;Mariana Benicio;Cordoba;Cordoba
+DO01264;DO;Massaccesi Analia;Cordoba;Cordoba
+DO01265;DO;Ceballos Marcelo;Cordoba;Cordoba
+DO01266;DO;Gabriel Beyona  Comarca De Allende;Villa Allende;Cordoba
+DO01268;DO;Gonzalo Agustin Beas;Alta Gracia;Cordoba
+DO01269;DO;Lloves Gerardo;Argüello;Cordoba
+DO01270;DO;Marcado Aduardo;Jesus Maria;Cordoba
+DO01271;DO;Ruben Mantanari;Tanti;Cordoba
+DO01272;DO;Diarco;Santiago Del Estero;Santiago Del Estero
+DO01274;DO;Arq. Gandolfi;Cordoba;Cordoba
+DO01275;DO;Presotti;Catamarca;Catamarca
+DO01276;DO;Cerzone;Cordoba;Cordoba
+DO01277;DO;Salvia Catamarca;Catamarca;Catamarca
+DO01278;DO;Fuerza Aerea;Cordoba;Cordoba
+DO01279;DO;Astori Lutre;Cordoba;Cordoba
+DO01280;DO;Federico Pablo Agusto;Cordoba;Cordoba
+DO01281;DO;Mc Ingenieria Cibie;Cordoba;Cordoba
+DO01282;DO;Riego;Cordoba;Cordoba
+DO01283;DO;Alta Gracia Horizonte;Alta Gracia;Cordoba
+DO01284;DO;Aguianti;Pilar;Cordoba
+DO01285;DO;Claudia Gonzales;Villa General Belgrano;Cordoba
+DO01286;DO;Jacobo Pablo;Jesus Maria;Cordoba
+DO01287;DO;Intech Prandi;Arroyito;Cordoba
+DO01288;DO;Tomas Irobi;Cordoba;Cordoba
+DO01289;DO;Tagle;Cordoba;Cordoba
+DO01291;DO;Chacra De La Merced;Jesus Maria;Cordoba
+DO01292;DO;Ondusec Reflex Planear;Cordoba;Cordoba
+DO01293;DO;La Rioja Cap;La Rioja;La Rioja
+DO01294;DO;Vivi. En Chilecito;La Rioja;La Rioja
+DO01295;DO;Konstruya;La Rioja;La Rioja
+DO01296;DO;Boico;Cordoba;Cordoba
+DO01297;DO;Prodismo;Cordoba;Cordoba
+DO01298;DO;Planear;Villa General Belgrano;Cordoba
+DO01299;DO;Gym Alta Cordoba;Cordoba;Cordoba
+DO01300;DO;Cibie;Cordoba;Cordoba
+DO01301;DO;Vinolli Walter;Resistencia;Chaco
+DO01302;DO;Mc Ingenieria Srl;Cordoba;Cordoba
+DO01303;DO;Americo Vespusio Esq. Garzon Agulla;Cordoba;Cordoba
+DO01306;DO;Servit;Cordoba;Cordoba
+DO01307;DO;Ceballos;Cordoba;Cordoba
+DO01308;DO;Catamarca;Catamarca;Catamarca
+DO01309;DO;Ciudad Gama;Cordoba;Cordoba
+DO01310;DO;Pedro Ortega Taller;Cordoba;Cordoba
+DO01311;DO;Yeplaco Parque Industrial;Cordoba;Cordoba
+DO01312;DO;Perez;Catamarca;Catamarca
+DO01313;DO;Guillermo Paez;Villa General Belgrano;Cordoba
+DO01314;DO;La Rioja;La Rioja;La Rioja
+DO01315;DO;Ilag;Resistencia;Chaco
+DO01316;DO;Gym;Cordoba;Cordoba
+DO01317;DO;Santiago;Santiago Del Estero;Santiago Del Estero
+DO01319;DO;Vega Rio Segundo;Rio Segundo;Cordoba
+DO01320;DO;Perez;Cordoba;Cordoba
+DO01321;DO;Camino Ajas Blancas S/N;Cordoba;Cordoba
+DO01322;DO;La Rioja;La Rioja;La Rioja
+DO01323;DO;Oncativo Gnc;Oncativo;Cordoba
+DO01324;DO;Tiberina Zibel;Cordoba;Cordoba
+DO01326;DO;Catamarca;Catamarca;Catamarca
+DO01327;DO;Fiat;Cordoba;Cordoba
+DO01328;DO;Las Flores;Cordoba;Cordoba
+DO01329;DO;Bv. Los Graaderos;Cordoba;Cordoba
+DO01331;DO;Eg3;Cordoba;Cordoba
+DO01334;DO;Villa Dolores Maidana;Villa Dolores;Cordoba
+DO01335;DO;Santiago Del Estero;Santiago Del Estero;Santiago Del Estero
+DO01337;DO;Catamarca Aldecoa;Catamarca;Catamarca
+DO01338;DO;Coronel Dorrego Santiago;Catamarca;Catamarca
+DO01340;DO;Rio Cuarto;Rio Cuarto;Cordoba
+DO01341;DO;Agd.;Cordoba;Cordoba
+DO01342;DO;Cotagro Dos;Rio Cuarto;Cordoba
+DO01343;DO;Gym Perez;Cordoba;Cordoba
+DO01344;DO;Ilag Constriuctora;Resistencia;Chaco
+DO01345;DO;Carlos Paz;Cordoba;Cordoba
+DO01346;DO;Parque Industrial Malagueno;Malagueño;Cordoba
+DO01348;DO;Duaertes Quiros Esq. Galli;Cordoba;Cordoba
+TC00046;TC;Colectora Oeste Panamericana Esq Domingo Domingo Matheu;Pilar;Buenos Aires
+TC00047;TC;Lima Esq Velez Sarsfield;San Isidro;Buenos Aires
+TC00051;TC;Catamarca Esq Domingo De Acassuso;San Isidro;Buenos Aires
+TC00056;TC;Av del Libertador General San Martin Esq Guiraldes;San Isidro;Buenos Aires
+TC00060;TC;Cno Buen Ayre Bajada Hurilngam;Hurlingham;Buenos Aires
+TC00061;TC;De La Tradicion1381;Parque Leloir;Buenos Aires
+TC00066;TC;Yrigoyen Esq Aristobulo Del Valle;General Rodriguez;Buenos Aires
+TC00071;TC;Mario Bravo Esq Jorge Newberry;Lujan;Buenos Aires
+TC00073;TC;Colectora Sur Acceso Oeste Frente Peaje Lujan;Lujan;Buenos Aires
+TC00076;TC;Mr Fragio;Ituzaingo;Buenos Aires
+TC00090;TC;Juan Xiii Esq Madarariaga;Burzaco;Buenos Aires
+TC00091;TC;Jose Ingenieros Esq Baldomero;Burzaco;Buenos Aires
+TC00093;TC;Av J. Newbery Esq  Andrade;Ezeiza;Buenos Aires
+TC00094;TC;Maiupu Esq Emilio Mitre;Canning;Buenos Aires
+TC00095;TC;Humita Esq Emilio Mitre;Canning;Buenos Aires
+TC00096;TC;Emilio Mitre Esq Sarandi;Canning;Buenos Aires
+GJ01141;GJ;Parana E Ibarra De Flores;Federacion;Entre Rios
+GJ01207;GJ;Caba;Capital Federal;Buenos Aires
+GJ01218;GJ;Av. Peron E Illia;Concordia;Entre Rios
+GJ01222;GJ;S/D;Chajari;Entre Rios
+MM02833;MM;Ypf Bs As - La Plata;Bernal;Buenos Aires
+MM02834;MM;Obra Hormetal;Spegazzini;Buenos Aires
+MM02853;MM;Obra Fatum;San Miguel De Tucuman;Tucuman
+MM02854;MM;La Plata;La Plata;Buenos Aires
+MM02857;MM;Aut Eze-Canuelas;Spegazzini;Buenos Aires
+MM02858;MM;Ceramica Lourdes;Burzaco;Buenos Aires
+MM02859;MM;Obra Japones Entrada;Hudson;Buenos Aires
+MM02861;MM;Parque Hudson;Hudson;Buenos Aires
+MM02873;MM;Obra Roiunich;La Plata;Buenos Aires
+MM02878;MM;Ingracia Esq Eva Peron;La Plata;Buenos Aires
+MM02882;MM;Rio Seco;San Miguel De Tucuman;Tucuman
+MM02904;MM;Aut Ezeiza-Canuelas;Spegazzini;Buenos Aires
+MM02906;MM;El Gigante Del Oeste;La Plata;Buenos Aires
+MM02907;MM;El Gifgante;La Plata;Buenos Aires
+MM02908;MM;El Gigante;La Plata;Buenos Aires
+MM02909;MM;El Gigante;La Plata;Buenos Aires
+MM02910;MM;El Gigante;La Plata;Buenos Aires
+MM02915;MM;La Plata;La Plata;Buenos Aires
+MM02916;MM;La Plata;La Plata;Buenos Aires
+MM02918;MM;Mitre Dominico;Avellaneda;Santa Fe
+MM02919;MM;Frente Alto Avella;Avellaneda;Buenos Aires
+MM02921;MM;Esteban Echeverria;Esteban Echeverria;Buenos Aires
+MM02925;MM;Sobre Centenario;La Plata;Buenos Aires
+MM02926;MM;Obra Vtas Bs As;La Plata;Buenos Aires
+MM02927;MM;Obra Don Fierro;Bernal;Buenos Aires
+MM02928;MM;El Amigo Chapero;San Miguel De Tucuman;Tucuman
+MM02929;MM;Obra El Amigo;San Miguel De Tucuman;Tucuman
+MM02930;MM;Obra Emi Nunez;San Miguel De Tucuman;Tucuman
+MM02932;MM;Met Fatum;San Miguel De Tucuman;Tucuman
+MM02950;MM;Obra Ranchos;Ranchos;Buenos Aires
+MM02952;MM;Obra Armando;Canning;Buenos Aires
+MM02963;MM;La Plata;La Plata;Buenos Aires
+MM02969;MM;El Gigante;La Plata;Buenos Aires
+MM02970;MM;El Gigante Del Oeste;La Plata;Buenos Aires
+MM02971;MM;El Gigante Del Oeste;La Plata;Buenos Aires
+MM02972;MM;El Gigante Del Oeste;La Plata;Buenos Aires
+MM02973;MM;El Gigante;La Plata;Buenos Aires
+MM02977;MM;Camino Centenario;La Plata;Buenos Aires
+MM02980;MM;Obra Valyser;Ranchos;Buenos Aires
+MM03002;MM;La Plata7;La Plata;Buenos Aires
+DO01152;DO;Loid Entre Rior Maderas;Mina Clavero;Cordoba
+DO01154;DO;Exacom Srl Denzo;Cordoba;Cordoba
+DO01156;DO;Galarza Julio;Argüello;Cordoba
+DO01157;DO;Santiago Palmero;La Calera;Cordoba
+DO01158;DO;Cortez Gabriel;Dean Funes;Cordoba
+DO01192;DO;Jorge Zingaretti;Jesus Maria;Cordoba
+DO01159;DO;Ricardo Ciminari Valle Escondidio;Rio Ceballos;Cordoba
+DO01160;DO;Jesus Maria;Jesus Maria;Cordoba
+DO01161;DO;San Agustin Traslasierras;San Agustin;Cordoba
+DO01162;DO;Romo Juan Dario;Cordoba;Cordoba
+DO01163;DO;Marcel Srl;Saldan;Cordoba
+DO01164;DO;Bizco Cintia;Tanti;Cordoba
+DO01165;DO;Victor Carrizo;Villa Dolores;Cordoba
+DO01166;DO;Sangaro;Cordoba;Cordoba
+DO01167;DO;Ochoa La Falda;La Falda;Cordoba
+DO01168;DO;Tribunales Federales;Cordoba;Cordoba
+DO01169;DO;Ochoa La Falda;La Falda;Cordoba
+DO01170;DO;La Falda;La Falda;Cordoba
+DO01171;DO;Otero;Cordoba;Cordoba
+DO01172;DO;Mina Clavero;Mina Clavero;Cordoba
+DO01173;DO;De Petris Martin;Cordoba;Cordoba
+DO01174;DO;German Bierbraver;Mina Clavero;Cordoba
+DO01175;DO;Galpon;Oliva;Cordoba
+DO01176;DO;Judith Santa Rosa De Calamuchita;Santa Rosa;Cordoba
+DO01178;DO;Potrero De Garay;Villa General Belgrano;Cordoba
+DO01179;DO;Galpon;Pilar;Cordoba
+DO01180;DO;Scuadra Sa;Cordoba;Cordoba
+DO01181;DO;Oscar Triguero;Morteros;Cordoba
+DO01182;DO;Gianone Anabella;Cordoba;Cordoba
+DO01183;DO;Cotagro Gral Deheza;General Deheza;Cordoba
+DO01184;DO;Galpon;Villa General Belgrano;Cordoba
+DO01185;DO;Ruta Cinco Km Yacanto;Villa General Belgrano;Cordoba
+DO01186;DO;Sindicato De Petroleros;Alta Gracia;Cordoba
+DO01187;DO;Los Llanos;Cordoba;Cordoba
+DO01189;DO;Coop Horizonte;Cordoba;Cordoba
+DO01191;DO;Lencioni Grafica;Cordoba;Cordoba
+DO01193;DO;Rodrigo Di Fiori;Cordoba;Cordoba
+DO01194;DO;Gallopa Gullermo;Villa Del Rosario;Cordoba
+DO01195;DO;Zaeta;Cordoba;Cordoba
+DO01196;DO;Colonia Caroya;Colonia Caroya;Cordoba
+DO01198;DO;Ilag Sylvia Fripp;Villa Angela;Chaco
+DO01199;DO;Polpulin City;Cordoba;Cordoba
+DO01200;DO;Arq. Leal;Catamarca;Catamarca
+DO01201;DO;Castro Producciones;La Rioja;La Rioja
+DO01206;DO;Villa Del Rosario Gallopa;Villa Del Rosario;Cordoba
+DO01207;DO;Populin City;Cordoba;Cordoba
+DO01208;DO;Villa Del Rosario;Villa Del Rosario;Cordoba
+DO01209;DO;Carauni;Villa Angela;Chaco
+DO01211;DO;Lopes De A Cruz;Cordoba;Cordoba
+DO01213;DO;Oncativo Esq. Autopista;Oncativo;Cordoba
+DO01214;DO;Oncativo Oil;Oncativo;Cordoba
+DO01215;DO;Cotagro Galpon Dos;General Deheza;Cordoba
+DO01216;DO;Iron Pack;Cordoba;Cordoba
+DO01217;DO;Tanti La Nacion;Tanti;Cordoba
+DO01218;DO;Cosquin Empalme Carlos Paz;Cosquin;Cordoba
+DO01219;DO;Junto Merlino;Cordoba;Cordoba
+DO01220;DO;Santiago Del Estero #5331;Santiago Del Estero;Santiago Del Estero
+DO01221;DO;Mariana M;Cordoba;Cordoba
+DO01222;DO;Dayana Feliciana;Cordoba;Cordoba
+DO01223;DO;Catamarca Leal;Catamarca;Catamarca
+DO01224;DO;Coop.Horizonte;Cordoba;Cordoba
+DO01225;DO;Aguilanti;Cosquin;Cordoba
+BJ05172;BJ;Zona Abierta;Villa Constitucion;Santa Fe
+BJ05176;BJ;Zona Cero;Rosario;Santa Fe
+BJ05177;BJ;Zona Cero;Rosario;Santa Fe
+BJ05178;BJ;Barrio Polledo Ex Villa Olimpica-Barrio Rucci;Rosario;Santa Fe
+BJ05180;BJ;Obra Buyanor;Ricardone;Santa Fe
+BJ05181;BJ;Obra Buyanor;Ricardone;Santa Fe
+BJ05182;BJ;Las Acequias;Roldan;Santa Fe
+BJ05183;BJ;San Martin De Las Escobas;San Martin De Las Escobas;Santa Fe
+BJ05185;BJ;Granja Paladini;Villa GobGalvez;Santa Fe
+BJ05105;BJ;Zona Rural Rafaela;Rafaela;Santa Fe
+BJ05106;BJ;Escuela En Santa Fe;Santa Fe;Santa Fe
+BJ05110;BJ;Zona Oeste De Santo Tome;Santo Tome;Santa Fe
+BJ05112;BJ;Zona Rural Totoras;Totoras;Santa Fe
+BJ05116;BJ;Zona Abierta Sastre;Sastre;Santa Fe
+BJ05117;BJ;Zona Abierta Sastre;Sastre;Santa Fe
+BJ05118;BJ;Mendoza;Rosario;Santa Fe
+BJ05119;BJ;Zona Rural Zenon Pereyra;San Jorge;Santa Fe
+BJ05120;BJ;Zona Oeste Rosario;Rosario;Santa Fe
+BJ05121;BJ;Zona Rural Rafaela;Rafaela;Santa Fe
+BJ05122;BJ;Zona Rural Sauce Viejo;Sauce Viejo;Santa Fe
+BJ05123;BJ;Villarino S/N°;Pueblo Esther;Santa Fe
+BJ05124;BJ;Zona Rural Pueblo Esther;Pueblo Esther;Santa Fe
+BJ05126;BJ;Stanizlao Lopez S/N;Rosario;Santa Fe
+BJ05129;BJ;Zona Rural Arroyo Seco;Arroyo Seco;Santa Fe
+BJ05146;BJ;Pellegrini1770;Rosario;Santa Fe
+BJ05147;BJ;Bernainh;Ricardone;Santa Fe
+BJ05148;BJ;Dr. Riva;Rosario;Santa Fe
+BJ05151;BJ;Nahuel Huapy;Villa Amelia;Santa Fe
+BJ05155;BJ;Zona Rural Pineiro;Alvear;Santa Fe
+BJ05156;BJ;Zona Rural Pineiro;Alvear;Santa Fe
+BJ05162;BJ;Zona Rural Mortero;Rafaela;Santa Fe
+BJ05163;BJ;Zona Parque Industrial Metropolitano;Rosario;Santa Fe
+BJ05164;BJ;Barrio Polledo Ex Villa Olimpica-Barrio Rucci;Rosario;Santa Fe
+BJ05166;BJ;Zona Abierta;Villa Constitucion;Santa Fe
+BJ05189;BJ;Cordoba S/N°;Villa Constitucion;Santa Fe
+BJ05190;BJ;Parque Industrial Villa;Villa Constitucion;Santa Fe
+BJ05197;BJ;Barrio El Castillo;Villa Constitucion;Santa Fe
+BJ05201;BJ;14 De Febrero Esq. San Martin;Villa Constitucion;Santa Fe
+BJ05206;BJ;Zona Abierta Villa;Villa Constitucion;Santa Fe
+BJ05209;BJ;Zona Oeste Rosario;Rosario;Santa Fe
+BJ05210;BJ;Zona Oeste Rosario;Rosario;Santa Fe
+BJ05211;BJ;Zona Oeste Rosario;Rosario;Santa Fe
+BJ05212;BJ;Zona Oeste Rosario;Rosario;Santa Fe
+BJ05213;BJ;Zona Rural Bricknman;Brinkmann;Cordoba
+BJ05214;BJ;Parque Industrial Rafaela;Rafaela;Santa Fe
+BJ05215;BJ;Zona Rural Sunchales;Sunchales;Santa Fe
+BJ05216;BJ;Parque Industrial Reconquista;Reconquista;Santa Fe
+BJ05217;BJ;Parque Industrial Galvez;Galvez;Santa Fe
+BJ05218;BJ;Zona Rural Firmat;Firmat;Santa Fe
+BJ05219;BJ;Parque Industrial Firmat;Rafael Calzada;Buenos Aires
+BJ05220;BJ;Barrio Tango;Rosario;Santa Fe
+BJ05222;BJ;Zona Rural Ricardone;Ricardone;Santa Fe
+BJ05223;BJ;Parque Industrial;Parana;Entre Rios
+BJ05224;BJ;Zona Rural Bigand;Bigand;Santa Fe
+BJ05225;BJ;Zona Rural Bigand;Bigand;Santa Fe
+BJ05229;BJ;Zona Rural;Marcos Juarez;Cordoba
+BJ05230;BJ;Zona Rural;Marcos Juarez;Cordoba
+BJ05231;BJ;Zona Rural;Marcos Juarez;Cordoba
+BJ05233;BJ;Zona Rural;Santo Tome;Santa Fe
+BJ05234;BJ;Crucijuegos;Rosario;Santa Fe
+BJ05236;BJ;Galea Cotizando;Rafaela;Santa Fe
+BJ05239;BJ;Localidad De San Nicolas;San Nicolas;Buenos Aires
+BJ05240;BJ;Zona Rural Rafaela;Rafaela;Santa Fe
+BJ05241;BJ;Estadio Mundialista De Hockey;Rosario;Santa Fe
+BJ05242;BJ;Estadio Mundialista De Hockey;Rosario;Santa Fe
+BJ05243;BJ;Zona Rural Esperanza;Rafaela;Santa Fe
+BJ05244;BJ;Ingreso A Marcos Juarez;Marcos Juarez;Cordoba
+BJ05245;BJ;Zona Oeste Camino A Orc;Rosario;Santa Fe
+BJ05247;BJ;Parque Industrial Santo Tome;Santo Tome;Santa Fe
+BJ05248;BJ;Continuacion Ingreso Por Ruta A Santo Tome;Santo Tome;Santa Fe
+BJ05249;BJ;San Jorge;San Jorge;Santa Fe
+BJ05254;BJ;Barrio Acindar Sin Numero;Villa Constitucion;Santa Fe
+BJ05255;BJ;Av. Principal Maciel. Pegado Al Cafe;Macia;Entre Rios
+BJ05256;BJ;Frente A La Plaza;Maciel;Santa Fe
+BJ05257;BJ;Soldini;Bigand;Santa Fe
+BJ05258;BJ;Soldini;Bigand;Santa Fe
+BJ05259;BJ;Alvarez;Bigand;Santa Fe
+BJ05260;BJ;Alvarez;Bigand;Santa Fe
+BJ05261;BJ;Zona Oeste De Rosario;Rosario;Santa Fe
+BJ05262;BJ;Zona Oeste Rosario;Rosario;Santa Fe
+BJ05264;BJ;Sin Numero;Pueblo Esther;Santa Fe
+BJ05267;BJ;Zon Rural Alvarez;Alvarez;Santa Fe
+BJ05270;BJ;Zona Rural Totoras;Totoras;Santa Fe
+BJ05271;BJ;Pim Rosario. Obra Tio Tom;Rosario;Santa Fe
+BJ05272;BJ;Galpon;Maciel;Santa Fe
+BJ05273;BJ;Autopista A Santa Fe - Altura San Lorenzo Sur;San Lorenzo;Santa Fe
+BJ05275;BJ;Zona Rural Maciel;Macia;Entre Rios
+BJ05283;BJ;Zona Rural Maximo Paz;Maximo Paz;Santa Fe
+BJ05285;BJ;Zona Rural Sastre;Esperanza;Santa Fe
+BJ05303;BJ;Hotel Kentucky;Funes;Santa Fe
+BJ05305;BJ;Zona Rural Las Parejas;Las Parejas;Santa Fe
+BJ05306;BJ;Zona Rural Las Parejas;Las Parejas;Santa Fe
+BJ05307;BJ;Zona Rural Las Parejas;Las Parejas;Santa Fe
+BJ05308;BJ;Zona Rural Las Parejas;Las Parejas;Santa Fe
+BJ05309;BJ;Zona Rural Las Parejas;Las Parejas;Santa Fe
+BJ05310;BJ;Zona Rural Las Parejas;Las Parejas;Santa Fe
+BJ05311;BJ;Zona Abierta Las Parejas;Las Parejas;Santa Fe
+BJ05312;BJ;Parque Industrial Galvez;Galvez;Santa Fe
+BJ05313;BJ;Zona Rural Las Parejas;Las Parejas;Santa Fe
+BJ05330;BJ;Barrio Abierto San Martin De Las Escobas;San Martin De Las Escobas;Santa Fe
+BJ05352;BJ;Barrio Alerces;Pueblo Esther;Santa Fe
+BJ05353;BJ;Barrio Alerces;Pueblo Esther;Santa Fe
+BJ05355;BJ;Barrio Abierto Venado Tuerto;Venado Tuerto;Santa Fe
+BJ05356;BJ;Zona Rural Venado Tuerto;Venado Tuerto;Santa Fe
+BJ05357;BJ;Obra Paladini;Villa GobGalvez;Santa Fe
+BJ05358;BJ;Obra Paladini;Villa GobGalvez;Santa Fe
+BJ05359;BJ;Parque Industrial;Victoria;Entre Rios
+BJ05360;BJ;Zenon Pereyra | Santa Fe;San Justo;Santa Fe
+BJ05361;BJ;Zenon Pereyra | Santa Fe;San Justo;Santa Fe
+BJ05363;BJ;Zona Rural Santo Tome;Santo Tome;Santa Fe
+BJ05364;BJ;Zona Rural Santo Tome;Santo Tome;Santa Fe
+BJ05365;BJ;Barrio Abierto;Las Parejas;Santa Fe
+BJ05366;BJ;Barrio Abierto Beltran;San Lorenzo;Santa Fe
+BJ05368;BJ;Barrio Abierto Munoz;Bigand;Santa Fe
+BJ05371;BJ;Zona Abierta Pueblo Esther;Pueblo Esther;Santa Fe
+BJ05372;BJ;Av. Circunvalacion S/N°;Rosario;Santa Fe
+BJ05373;BJ;Soldini;Soldini;Santa Fe
+BJ05374;BJ;Zona Rural Pinero;Bigand;Santa Fe
+BJ05375;BJ;Pinero;Bigand;Santa Fe
+BJ05376;BJ;Zona Rural;Firmat;Santa Fe
+BJ05377;BJ;Zona Rural Sanchez;San Nicolas;Buenos Aires
+BJ05378;BJ;Zona Rural Sanchez;San Nicolas;Buenos Aires
+BJ05379;BJ;Zona Rural Sanchez;San Nicolas;Buenos Aires
+BJ05380;BJ;Zona Rural Zanchez;San Nicolas;Buenos Aires
+BJ05381;BJ;Zona Rural Sanchez;San Nicolas;Buenos Aires
+BJ05382;BJ;Zona Rural Sanchez;San Nicolas;Buenos Aires
+BJ05383;BJ;Zona Rural Sanchez;San Nicolas;Buenos Aires
+BJ05384;BJ;Los Caracoles S/N;Santa Fe;Santa Fe
+BJ05385;BJ;Supermercado General Ramirez;General Ramirez;Entre Rios
+BJ05386;BJ;Sobre La Av.  Al Lado Del Super Frente A La Via.;Roldan;Santa Fe
+BJ05390;BJ;Ricchieri Esq. San Lorenzo;Rosario;Santa Fe
+BJ05392;BJ;Barrio Melincue;Venado Tuerto;Santa Fe
+BJ05393;BJ;Obra Paladini;Villa GobGalvez;Santa Fe
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+DO01376;DO;Chery Villa Allende;Villa Allende;Cordoba
+DO01383;DO;Contreras Damian;Villa Dolores;Cordoba
+DO01388;DO;Pablo Moyano;Las Varillas;Cordoba
+DO01389;DO;Perez Lucio;Villa General Belgrano;Cordoba
+DO01390;DO;Carlos Ramus;Cordoba;Cordoba
+DO01392;DO;Met Nadaya;Cosquin;Cordoba
+DO01393;DO;Desiderio;Rio Cuarto;Cordoba
+DO01394;DO;Barrio Parque Santa Ana;Cordoba;Cordoba
+DO01395;DO;Zizi;Resistencia;Chaco
+DO01396;DO;Rio Ceballos;Rio Ceballos;Cordoba
+DO01397;DO;Santiago Del Estero Coronel Dorrego;Santiago Del Estero;Santiago Del Estero
+DO01398;DO;Catamarca;Catamarca;Catamarca
+DO01399;DO;Conterno40;Alta Gracia;Cordoba
+DO01400;DO;Fontana Carlos;Rio Primero;Cordoba
+DO01401;DO;Tetra Srl;Cordoba;Cordoba
+DO01402;DO;Resistencai Ilag;Resistencia;Chaco
+DO01403;DO;Unquillo Rodriguez;Cordoba;Cordoba
+DO01404;DO;Tetra Sa;Cosquin;Cordoba
+DO01405;DO;Taninga;Cruz Del Eje;Cordoba
+DO01406;DO;Guchea;Cordoba;Cordoba
+DO01408;DO;Federico Pablo60;Cordoba;Cordoba
+DO01409;DO;San Fco;San Francisco;Cordoba
+DO01411;DO;Maricel Cane;Cordoba;Cordoba
+DO01415;DO;Olmos Demoliciones;Cordoba;Cordoba
+DO01416;DO;Fronte M;Cosquin;Cordoba
+DO01417;DO;Jorge Paulucci;Cordoba;Cordoba
+DO01418;DO;Lequipe Monteau Sa;Cordoba;Cordoba
+DO01419;DO;Cosquin Carlos Alarcon;Cordoba;Cordoba
+DO01421;DO;#5707;La Calera;Cordoba
+DO01424;DO;Julio Bokhdjalian;Cordoba;Cordoba
+DO01425;DO;Manuel Martinez;Villa Allende;Cordoba
+DO01426;DO;Ingeco Srl;Cordoba;Cordoba
+DO01427;DO;Ic Construccione;Villa Dolores;Cordoba
+DO01428;DO;Prandi Arroyito;Arroyito;Cordoba
+DO01429;DO;Mc Ingenieria;Oncativo;Cordoba
+DO01430;DO;Aguilanti Rio Ceballos;Rio Ceballos;Cordoba
+DO01431;DO;Garcia Gomez( San Fco Del Chanar);Santiago Del Estero;Santiago Del Estero
+DO01432;DO;Aldo Martinez;Catamarca;Catamarca
+DO01433;DO;Clemente Tomas;Jesus Maria;Cordoba
+DO01441;DO;Maria Rosa Carranza;Catamarca;Catamarca
+DO01442;DO;Anses;Cosquin;Cordoba
+DO01443;DO;Gomeria Cosquin;Cosquin;Cordoba
+DO01444;DO;Unc Cordoba Ic Construcc.;Cordoba;Cordoba
+DO01447;DO;5718;Villa Allende;Cordoba
+DO01448;DO;Silos Mengo;Rio Tercero;Cordoba
+DO01449;DO;Teleprom Argentina Sa;Cordoba;Cordoba
+DO01450;DO;Cura Brochero;Mina Clavero;Cordoba
+DO01451;DO;Los Molinos Ruta Cinco;Alta Gracia;Cordoba
+DO01452;DO;Oncativo;Oncativo;Cordoba
+DO01454;DO;Villa Del Dique;Rio Tercero;Cordoba
+DO01455;DO;I Santiago Del Estero;La Banda;Santiago Del Estero
+DO01456;DO;Dolores;Tanti;Cordoba
+DO01457;DO;Catamarca;Catamarca;Catamarca
+DO01458;DO;Parque De Las Tejas;Cordoba;Cordoba
+DO01459;DO;Cosquin;Cordoba;Cordoba
+DO01460;DO;Talar De Mendilaza;Mendiolaza;Cordoba
+DO01462;DO;Sza Sa Corradini;Cordoba;Cordoba
+DO01463;DO;Neverland;Cordoba;Cordoba
+DO01464;DO;Luis Pinton;Cordoba;Cordoba
+DO01465;DO;La Rioja Cancha Fot Sal;La Rioja;La Rioja
+DO01468;DO;Cerro Colorado;Cordoba;Cordoba
+DO01469;DO;Oncativo Camiletti;Oncativo;Cordoba
+DO01471;DO;Ziguensa;Cordoba;Cordoba
+DO01472;DO;Ypf Directo;Pilar;Cordoba
+DO01475;DO;Villa Allende Piscinas;Villa Allende;Cordoba
+DO01477;DO;Salsipuedes #5797;Salsipuedes;Cordoba
+DO01479;DO;Glp;Cordoba;Cordoba
+DO01485;DO;Fernando Fader #5808;Rio Tercero;Cordoba
+DO01486;DO;Fernando Fader #5809;San Francisco;Cordoba
+DO01487;DO;Ochoa Cruz Del Eje;Cruz Del Eje;Cordoba
+DO01488;DO;Luis Maria Benevento;Rio Tercero;Cordoba
+DO01489;DO;Luis Maria Benevento;Capilla Del Monte;Cordoba
+DO01490;DO;Parque Industrial;Cordoba;Cordoba
+DO01491;DO;Pi Ferreyra;Cordoba;Cordoba
+DO01492;DO;Pi  Ferreyra Cno De Ripio;Cordoba;Cordoba
+DO01495;DO;Tetra Srl Tres;Cosquin;Cordoba
+DO01496;DO;Cabase;Mina Clavero;Cordoba
+DO01497;DO;Lucila Beatria;Tanti;Cordoba
+DO01498;DO;Guchea Maximiliano;Cordoba;Cordoba
+DO01500;DO;Villanueva E Hijos;Salta;Jujuy
+DO01501;DO;Luis Maria Benevento;Rio Tercero;Cordoba
+DO01502;DO;San Fco;San Francisco;Cordoba
+DO01503;DO;Rio Tercero;Rio Tercero;Cordoba
+DO01504;DO;Teresa Reynilds;Salta;Salta
+DO01505;DO;Fernando Delgado;Salta;Salta
+DO01506;DO;Edduardo Kardahi;Cordoba;Cordoba
+DO01507;DO;Mikrotek Srl;Cordoba;Cordoba
+DO01508;DO;Luis Rodriguez;Unquillo;Cordoba
+DO01509;DO;Guillermo Paez;Jesus Maria;Cordoba
+DO01510;DO;Goodyear;San Miguel De Tucuman;Tucuman
+DO01511;DO;Gordillo Constructora;San Miguel De Tucuman;Tucuman
+DO01512;DO;Criadero Santa Eufemia;General Deheza;Cordoba
+DO01513;DO;Cosquin Tetra Dos;Cosquin;Cordoba
+DO01514;DO;Silos Mengo;Rio Tercero;Cordoba
+DO01515;DO;Clever Gonzales  Rio Tercero Pi;Rio Tercero;Cordoba
+DO01516;DO;Nvo Hospital;Rio Tercero;Cordoba
+DO01517;DO;Dym Estructuras Metalicas;Rio Tercero;Cordoba
+DO01519;DO;Jesus Maria Lutre;Jesus Maria;Cordoba
+DO01520;DO;Maximiliano Dias;Santiago Del Estero;Santiago Del Estero
+DO01521;DO;Gym Altamira;Cordoba;Cordoba
+DO01523;DO;Colonia Tirolesa;Colonia Tirolesa;Cordoba
+DO01527;DO;Camiletti Oncativo;Oncativo;Cordoba
+DO01528;DO;Rey De Reyes;Cordoba;Cordoba
+DO01530;DO;Met Roma;Cordoba;Cordoba
+DO01531;DO;Gustavo Sugar;Rio Primero;Cordoba
+DO01532;DO;Adicem Show Room;San Miguel De Tucuman;Tucuman
+DO01533;DO;Caros Bernardini Casa Electrica;San Miguel De Tucuman;Tucuman
+DO01534;DO;Carpat;Cordoba;Cordoba
+DO01537;DO;Gral Paz;Jesus Maria;Cordoba
+DO01538;DO;Rey De Reyes;Salsipuedes;Cordoba
+MM03046;MM;Facultad De Agronomia;La Plata;Buenos Aires
+MM03053;MM;No Se;La Plata;Buenos Aires
+MM03069;MM;Av Del Valle S7n;Junin;Buenos Aires
+MM03073;MM;Bautec Ezeiza;Ezeiza;Buenos Aires
+MM03076;MM;Tandil Cerdos;Tandil;Buenos Aires
+MM03077;MM;Cerdos Tandil;Tandil;Buenos Aires
+MM03078;MM;Cerdos Tandil;Tandil;Buenos Aires
+MM03079;MM;Cerdos Tandil;Tandil;Buenos Aires
+MM03080;MM;Cerdos Tandil;Tandil;Buenos Aires
+MM03081;MM;Cerdos Tandil;Tandil;Buenos Aires
+MM03082;MM;Cerdos Tandil;Tandil;Buenos Aires
+MM03085;MM;Obra Naje;Mar Del Plata;Buenos Aires
+MM03087;MM;Galpon Cerca Ospital;Canning;Buenos Aires
+MM03100;MM;Cerrito Colocrado;Junin;Buenos Aires
+RS01122;RS;Las Paredes S/N;San Rafael;Mendoza
+RS01124;RS;San Rafael Carriles;San Rafael;Mendoza
+RS01127;RS;Barrio Pilar S/N;San Martin;Mendoza
+RS01129;RS;Club Efrain;San Martin;Mendoza
+RS01130;RS;Club Gcat;Maipu;Mendoza
+RS01131;RS;Palmares F67;Godoy Cruz;Mendoza
+RS01132;RS;Vieytes M22;Maipu;Mendoza
+RS01137;RS;Camino De Altamira S/N;San Carlos;Mendoza
+RS01139;RS;Tres Esquinas S/N;San Carlos;Mendoza
+RS01141;RS;Los Aromios;Chacras De Coria;Mendoza
+RS01145;RS;Rincon De Palma L17;Maipu;Mendoza
+RS01150;RS;Las Praderas;Guaymallen;Mendoza
+RS01156;RS;Gimenez Rilli C33;Guaymallen;Mendoza
+RS01158;RS;Oficinas La Segunda;Mendiolaza;Cordoba
+RS01159;RS;Parroquia Palmira;San Martin;Mendoza
+RS01160;RS;Colonia Las Rosas;Tunuyan;Mendoza
+RS01165;RS;Supermercado Entre Lomas;San Luis;San Luis
+GJ01239;GJ;Av. Colombia4300;Capital Federal;Buenos Aires
+GJ01246;GJ;Nd;Corrientes;Corrientes
+BJ05476;BJ;Barrio Abierto Esperanza;Esperanza;Santa Fe
+BJ05477;BJ;Barrio Abierto Esperanza;Esperanza;Santa Fe
+BJ05478;BJ;Barrio Industrial Villa Constitucion;Villa Constitucion;Santa Fe
+BJ05479;BJ;Barrio Abierto Villa Constitucion;Las Rosas;Santa Fe
+BJ05480;BJ;Roldan;Roldan;Santa Fe
+BJ05482;BJ;Parque Industrial;Firmat;Santa Fe
+BJ05483;BJ;Zona Oeste;Rosario;Santa Fe
+BJ05486;BJ;Barrio Las Almejas;Santa Fe;Santa Fe
+BJ05487;BJ;Terzoni Eduardo;Funes;Santa Fe
+BJ05488;BJ;Keru Rosa S/N;Funes;Santa Fe
+BJ05489;BJ;Roldan;Roldan;Santa Fe
+BJ05490;BJ;Roldan;Roldan;Santa Fe
+BJ05491;BJ;Cantegrill;Funes;Santa Fe
+BJ05492;BJ;Los Cardalles;Las Parejas;Santa Fe
+BJ05493;BJ;Cabreras Fernandez Gisella;Rosario;Santa Fe
+BJ05494;BJ;Jockey Club;Venado Tuerto;Santa Fe
+BJ05495;BJ;Funes;Funes;Santa Fe
+BJ05496;BJ;Pueble Esther;Pueblo Esther;Santa Fe
+BJ05497;BJ;Perez;Perez;Santa Fe
+BJ05498;BJ;Perez;Perez;Santa Fe
+BJ05500;BJ;Roldan;Roldan;Santa Fe
+BJ05502;BJ;Parque Industrial Rafaela;Rafaela;Santa Fe
+BJ05503;BJ;Zona Rural Villa Canas;Villa Cañas;Santa Fe
+BJ05505;BJ;Pineiro;Alvarez;Santa Fe
+BJ05511;BJ;Parque Industrial Ceres;Ceres;Santa Fe
+BJ05513;BJ;Parque Industrial Villa Canas;Villa Cañas;Santa Fe
+BJ05514;BJ;Parque Industrial;Santa Fe;Santa Fe
+BJ05515;BJ;Parque Industrial;Villa Maria;Cordoba
+BJ05539;BJ;Colegio;Arroyo Seco;Santa Fe
+BJ05546;BJ;Avellaneda3641;Villa Constitucion;Santa Fe
+BJ05556;BJ;Zona Rural Coronel Dominguez;Bigand;Santa Fe
+BJ05557;BJ;Los Caracoles S/N;Rincon;Santa Fe
+BJ05561;BJ;Zona Rural Firmat;Firmat;Santa Fe
+BJ05563;BJ;Zona Rural Galvez;Galvez;Santa Fe
+BJ05564;BJ;Zona Rural Santo Tome;Santo Tome;Santa Fe
+BJ05579;BJ;Plaxa Parque Pueblo Esther;Pueblo Esther;Santa Fe
+GJ01302;GJ;Nd;Zarate;Buenos Aires
+BJ05611;BJ;Funes;Funes;Santa Fe
+BJ05613;BJ;Barrio Abierto;Roldan;Santa Fe
+BJ05614;BJ;Funes;Funes;Santa Fe
+BJ05412;BJ;Sin Dire Por Ahora;Rosario;Santa Fe
+BJ05413;BJ;Dato De Diego;Rosario;Santa Fe
+BJ05414;BJ;No Hay Dato Sobre Direccion;Rosario;Santa Fe
+BJ05425;BJ;Villa Amelia;Villa Amelia;Santa Fe
+BJ05430;BJ;Miniello;Totoras;Santa Fe
+BJ05431;BJ;San Francisco Del Chanar;Marcos Juarez;Cordoba
+BJ05436;BJ;Pje. Pessan;Rosario;Santa Fe
+BJ05442;BJ;Monte Buey;Monte Buey;Cordoba
+BJ05443;BJ;Zona Rural;Totoras;Santa Fe
+BJ05444;BJ;Salto Grande;Totoras;Santa Fe
+BJ05449;BJ;Plaza Juwells Del Rosario;Roldan;Santa Fe
+BJ05450;BJ;Zona Rural Venado Tuerto;Venado Tuerto;Santa Fe
+BJ05451;BJ;Parque Industrial;Venado Tuerto;Santa Fe
+BJ05452;BJ;Av. Las Baleares Parque Industrial;Santo Tome;Santa Fe
+BJ05453;BJ;Zona Rural Alvarez;Alvarez;Santa Fe
+BJ05456;BJ;Barrio Abierto Crespo;Crespo;Entre Rios
+BJ05459;BJ;Zona Abierta;Crespo;Entre Rios
+BJ05461;BJ;Calle S/N°  Galvez;Galvez;Santa Fe
+BJ05462;BJ;Barrio Abierto;Crespo;Entre Rios
+BJ05463;BJ;La Madrid S/N°;Rosario;Santa Fe
+BJ05465;BJ;Barrio Abierto;Santo Tome;Santa Fe
+BJ05466;BJ;Alvarez - Mirosevich;Alvarez;Santa Fe
+BJ05467;BJ;Micropack Rosario;Rosario;Santa Fe
+BJ05470;BJ;Zona Rural Ceres;Ceres;Santa Fe
+BJ05471;BJ;Morbidoni - Ceres;Ceres;Santa Fe
+BJ05472;BJ;Las Parejas;Las Parejas;Santa Fe
+BJ05474;BJ;Della Santa;Rafaela;Santa Fe
+BJ05584;BJ;Casiano Casas;Rosario;Santa Fe
+BJ05586;BJ;Panama Calle;Funes;Santa Fe
+BJ05597;BJ;Coronel Arnold - Soldini;Soldini;Santa Fe
+BJ05598;BJ;Villa Amelia;Villa Amelia;Santa Fe
+BJ05600;BJ;Barrio Abierto Roldan;Roldan;Santa Fe
+BJ05601;BJ;Zona Rural Ceres;Ceres;Santa Fe
+BJ05602;BJ;Rafaela;Rafaela;Santa Fe
+BJ05603;BJ;Venado Tuerto Pim;Venado Tuerto;Santa Fe
+BJ05604;BJ;Salto Grande;Totoras;Santa Fe
+BJ05605;BJ;Salto Grande;Totoras;Santa Fe
+BJ05606;BJ;Barrio Abierto;Arroyo Seco;Santa Fe
+BJ05607;BJ;Barrio Abierto;Arroyo Seco;Santa Fe
+BJ05608;BJ;Zona Rural;Las Parejas;Santa Fe
+BJ05609;BJ;Zona Rural;Las Parejas;Santa Fe
+BJ05610;BJ;Villa;Villa Constitucion;Santa Fe

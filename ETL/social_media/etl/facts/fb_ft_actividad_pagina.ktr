@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transformation>
+  <info>
+    <name>fb_ft_actividad_pagina</name>
+    <description/>
+    <extended_description/>
+    <trans_version/>
+    <trans_type>Normal</trans_type>
+    <trans_status>0</trans_status>
+    <directory>&#x2f;</directory>
+    <parameters>
+    </parameters>
+    <log>
+<trans-log-table><connection/>
+<schema/>
+<table/>
+<size_limit_lines/>
+<interval/>
+<timeout_days/>
+<field><id>ID_BATCH</id><enabled>Y</enabled><name>ID_BATCH</name></field><field><id>CHANNEL_ID</id><enabled>Y</enabled><name>CHANNEL_ID</name></field><field><id>TRANSNAME</id><enabled>Y</enabled><name>TRANSNAME</name></field><field><id>STATUS</id><enabled>Y</enabled><name>STATUS</name></field><field><id>LINES_READ</id><enabled>Y</enabled><name>LINES_READ</name><subject/></field><field><id>LINES_WRITTEN</id><enabled>Y</enabled><name>LINES_WRITTEN</name><subject/></field><field><id>LINES_UPDATED</id><enabled>Y</enabled><name>LINES_UPDATED</name><subject/></field><field><id>LINES_INPUT</id><enabled>Y</enabled><name>LINES_INPUT</name><subject/></field><field><id>LINES_OUTPUT</id><enabled>Y</enabled><name>LINES_OUTPUT</name><subject/></field><field><id>LINES_REJECTED</id><enabled>Y</enabled><name>LINES_REJECTED</name><subject/></field><field><id>ERRORS</id><enabled>Y</enabled><name>ERRORS</name></field><field><id>STARTDATE</id><enabled>Y</enabled><name>STARTDATE</name></field><field><id>ENDDATE</id><enabled>Y</enabled><name>ENDDATE</name></field><field><id>LOGDATE</id><enabled>Y</enabled><name>LOGDATE</name></field><field><id>DEPDATE</id><enabled>Y</enabled><name>DEPDATE</name></field><field><id>REPLAYDATE</id><enabled>Y</enabled><name>REPLAYDATE</name></field><field><id>LOG_FIELD</id><enabled>Y</enabled><name>LOG_FIELD</name></field><field><id>EXECUTING_SERVER</id><enabled>N</enabled><name>EXECUTING_SERVER</name></field><field><id>EXECUTING_USER</id><enabled>N</enabled><name>EXECUTING_USER</name></field><field><id>CLIENT</id><enabled>N</enabled><name>CLIENT</name></field></trans-log-table>
+<perf-log-table><connection/>
+<schema/>
+<table/>
+<interval/>
+<timeout_days/>
+<field><id>ID_BATCH</id><enabled>Y</enabled><name>ID_BATCH</name></field><field><id>SEQ_NR</id><enabled>Y</enabled><name>SEQ_NR</name></field><field><id>LOGDATE</id><enabled>Y</enabled><name>LOGDATE</name></field><field><id>TRANSNAME</id><enabled>Y</enabled><name>TRANSNAME</name></field><field><id>STEPNAME</id><enabled>Y</enabled><name>STEPNAME</name></field><field><id>STEP_COPY</id><enabled>Y</enabled><name>STEP_COPY</name></field><field><id>LINES_READ</id><enabled>Y</enabled><name>LINES_READ</name></field><field><id>LINES_WRITTEN</id><enabled>Y</enabled><name>LINES_WRITTEN</name></field><field><id>LINES_UPDATED</id><enabled>Y</enabled><name>LINES_UPDATED</name></field><field><id>LINES_INPUT</id><enabled>Y</enabled><name>LINES_INPUT</name></field><field><id>LINES_OUTPUT</id><enabled>Y</enabled><name>LINES_OUTPUT</name></field><field><id>LINES_REJECTED</id><enabled>Y</enabled><name>LINES_REJECTED</name></field><field><id>ERRORS</id><enabled>Y</enabled><name>ERRORS</name></field><field><id>INPUT_BUFFER_ROWS</id><enabled>Y</enabled><name>INPUT_BUFFER_ROWS</name></field><field><id>OUTPUT_BUFFER_ROWS</id><enabled>Y</enabled><name>OUTPUT_BUFFER_ROWS</name></field></perf-log-table>
+<channel-log-table><connection/>
+<schema/>
+<table/>
+<timeout_days/>
+<field><id>ID_BATCH</id><enabled>Y</enabled><name>ID_BATCH</name></field><field><id>CHANNEL_ID</id><enabled>Y</enabled><name>CHANNEL_ID</name></field><field><id>LOG_DATE</id><enabled>Y</enabled><name>LOG_DATE</name></field><field><id>LOGGING_OBJECT_TYPE</id><enabled>Y</enabled><name>LOGGING_OBJECT_TYPE</name></field><field><id>OBJECT_NAME</id><enabled>Y</enabled><name>OBJECT_NAME</name></field><field><id>OBJECT_COPY</id><enabled>Y</enabled><name>OBJECT_COPY</name></field><field><id>REPOSITORY_DIRECTORY</id><enabled>Y</enabled><name>REPOSITORY_DIRECTORY</name></field><field><id>FILENAME</id><enabled>Y</enabled><name>FILENAME</name></field><field><id>OBJECT_ID</id><enabled>Y</enabled><name>OBJECT_ID</name></field><field><id>OBJECT_REVISION</id><enabled>Y</enabled><name>OBJECT_REVISION</name></field><field><id>PARENT_CHANNEL_ID</id><enabled>Y</enabled><name>PARENT_CHANNEL_ID</name></field><field><id>ROOT_CHANNEL_ID</id><enabled>Y</enabled><name>ROOT_CHANNEL_ID</name></field></channel-log-table>
+<step-log-table><connection/>
+<schema/>
+<table/>
+<timeout_days/>
+<field><id>ID_BATCH</id><enabled>Y</enabled><name>ID_BATCH</name></field><field><id>CHANNEL_ID</id><enabled>Y</enabled><name>CHANNEL_ID</name></field><field><id>LOG_DATE</id><enabled>Y</enabled><name>LOG_DATE</name></field><field><id>TRANSNAME</id><enabled>Y</enabled><name>TRANSNAME</name></field><field><id>STEPNAME</id><enabled>Y</enabled><name>STEPNAME</name></field><field><id>STEP_COPY</id><enabled>Y</enabled><name>STEP_COPY</name></field><field><id>LINES_READ</id><enabled>Y</enabled><name>LINES_READ</name></field><field><id>LINES_WRITTEN</id><enabled>Y</enabled><name>LINES_WRITTEN</name></field><field><id>LINES_UPDATED</id><enabled>Y</enabled><name>LINES_UPDATED</name></field><field><id>LINES_INPUT</id><enabled>Y</enabled><name>LINES_INPUT</name></field><field><id>LINES_OUTPUT</id><enabled>Y</enabled><name>LINES_OUTPUT</name></field><field><id>LINES_REJECTED</id><enabled>Y</enabled><name>LINES_REJECTED</name></field><field><id>ERRORS</id><enabled>Y</enabled><name>ERRORS</name></field><field><id>LOG_FIELD</id><enabled>N</enabled><name>LOG_FIELD</name></field></step-log-table>
+<metrics-log-table><connection/>
+<schema/>
+<table/>
+<timeout_days/>
+<field><id>ID_BATCH</id><enabled>Y</enabled><name>ID_BATCH</name></field><field><id>CHANNEL_ID</id><enabled>Y</enabled><name>CHANNEL_ID</name></field><field><id>LOG_DATE</id><enabled>Y</enabled><name>LOG_DATE</name></field><field><id>METRICS_DATE</id><enabled>Y</enabled><name>METRICS_DATE</name></field><field><id>METRICS_CODE</id><enabled>Y</enabled><name>METRICS_CODE</name></field><field><id>METRICS_DESCRIPTION</id><enabled>Y</enabled><name>METRICS_DESCRIPTION</name></field><field><id>METRICS_SUBJECT</id><enabled>Y</enabled><name>METRICS_SUBJECT</name></field><field><id>METRICS_TYPE</id><enabled>Y</enabled><name>METRICS_TYPE</name></field><field><id>METRICS_VALUE</id><enabled>Y</enabled><name>METRICS_VALUE</name></field></metrics-log-table>
+    </log>
+    <maxdate>
+      <connection/>
+      <table/>
+      <field/>
+      <offset>0.0</offset>
+      <maxdiff>0.0</maxdiff>
+    </maxdate>
+    <size_rowset>10000</size_rowset>
+    <sleep_time_empty>50</sleep_time_empty>
+    <sleep_time_full>50</sleep_time_full>
+    <unique_connections>N</unique_connections>
+    <feedback_shown>Y</feedback_shown>
+    <feedback_size>50000</feedback_size>
+    <using_thread_priorities>Y</using_thread_priorities>
+    <shared_objects_file/>
+    <capture_step_performance>N</capture_step_performance>
+    <step_performance_capturing_delay>1000</step_performance_capturing_delay>
+    <step_performance_capturing_size_limit>100</step_performance_capturing_size_limit>
+    <dependencies>
+    </dependencies>
+    <partitionschemas>
+    </partitionschemas>
+    <slaveservers>
+         <slaveserver><name>cloudera</name><hostname>aa6d2-cldramaster-01</hostname><port>8081</port><webAppName/><username>cluster</username><password>Encrypted 2be98afc86aa7f2e4cb1aa265cd86aac8</password><proxy_hostname/><proxy_port/><non_proxy_hosts/><master>Y</master><sslMode>N</sslMode></slaveserver>
+         <slaveserver><name>pajaro</name><hostname>192.168.1.50</hostname><port>9080</port><webAppName>pentaho-di</webAppName><username>admin</username><password>Encrypted 2be98afc86aa7f2e4bb18bd63c99dbdde</password><proxy_hostname/><proxy_port/><non_proxy_hosts/><master>N</master><sslMode>N</sslMode></slaveserver>
+    </slaveservers>
+    <clusterschemas>
+    </clusterschemas>
+  <created_user>-</created_user>
+  <created_date>2015&#x2f;06&#x2f;26 13&#x3a;09&#x3a;34.351</created_date>
+  <modified_user>-</modified_user>
+  <modified_date>2015&#x2f;06&#x2f;26 13&#x3a;09&#x3a;34.351</modified_date>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA&#x3d;</key_for_session_key>
+    <is_key_private>N</is_key_private>
+  </info>
+  <notepads>
+    <notepad>
+      <note>Trae info desde antes de ayer hasta &#xd;&#xa;ayer inclusive para comparar</note>
+      <xloc>35</xloc>
+      <yloc>217</yloc>
+      <width>221</width>
+      <heigth>40</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Se queda s&#xf3;lo&#xd;&#xa;con la fecha de ayer</note>
+      <xloc>873</xloc>
+      <yloc>230</yloc>
+      <width>128</width>
+      <heigth>40</heigth>
+      <fontname>Arial</fontname>
+      <fontsize>10</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Obtengo la cantidad de posts de ayer y los nuevos.</note>
+      <xloc>360</xloc>
+      <yloc>350</yloc>
+      <width>277</width>
+      <heigth>26</heigth>
+      <fontname>Segoe UI</fontname>
+      <fontsize>9</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+  </notepads>
+  <connection>
+    <name>data_bi</name>
+    <server>&#x24;&#x7b;DATABI_HOST&#x7d;</server>
+    <type>POSTGRESQL</type>
+    <access>Native</access>
+    <database>&#x24;&#x7b;DATABI_DB&#x7d;</database>
+    <port>&#x24;&#x7b;DATABI_PORT&#x7d;</port>
+    <username>&#x24;&#x7b;DATABI_USER&#x7d;</username>
+    <password>&#x24;&#x7b;DATABI_PASS&#x7d;</password>
+    <servername/>
+    <data_tablespace/>
+    <index_tablespace/>
+    <attributes>
+      <attribute><code>FORCE_IDENTIFIERS_TO_LOWERCASE</code><attribute>N</attribute></attribute>
+      <attribute><code>FORCE_IDENTIFIERS_TO_UPPERCASE</code><attribute>N</attribute></attribute>
+      <attribute><code>IS_CLUSTERED</code><attribute>N</attribute></attribute>
+      <attribute><code>PORT_NUMBER</code><attribute>&#x24;&#x7b;DATABI_PORT&#x7d;</attribute></attribute>
+      <attribute><code>PRESERVE_RESERVED_WORD_CASE</code><attribute>N</attribute></attribute>
+      <attribute><code>QUOTE_ALL_FIELDS</code><attribute>N</attribute></attribute>
+      <attribute><code>SUPPORTS_BOOLEAN_DATA_TYPE</code><attribute>Y</attribute></attribute>
+      <attribute><code>SUPPORTS_TIMESTAMP_DATA_TYPE</code><attribute>Y</attribute></attribute>
+      <attribute><code>USE_POOLING</code><attribute>N</attribute></attribute>
+    </attributes>
+  </connection>
+  <order>
+  <hop> <from>cantidades_nuevos</from><to>dim_time</to><enabled>Y</enabled> </hop>
+  <hop> <from>Formula</from><to>cantidades_nuevos</to><enabled>Y</enabled> </hop>
+  <hop> <from>un registro por fecha</from><to>Dia -1</to><enabled>Y</enabled> </hop>
+  <hop> <from>fb_pages</from><to>fecha sin hora</to><enabled>Y</enabled> </hop>
+  <hop> <from>fecha sin hora</from><to>Select values</to><enabled>Y</enabled> </hop>
+  <hop> <from>Dia -1</from><to>Formula</to><enabled>Y</enabled> </hop>
+  <hop> <from>ult fecha</from><to>fb_ft_actividad_pagina</to><enabled>Y</enabled> </hop>
+  <hop> <from>fb_posts</from><to>cant_posts_ayer</to><enabled>Y</enabled> </hop>
+  <hop> <from>fb_dim_pagina</from><to>Stream cant_posts</to><enabled>Y</enabled> </hop>
+  <hop> <from>cant_posts_nuevos</from><to>Stream cant_posts</to><enabled>Y</enabled> </hop>
+  <hop> <from>dim_time</from><to>dim_cuentas_vinculadas</to><enabled>Y</enabled> </hop>
+  <hop> <from>dim_cuentas_vinculadas</from><to>ult fecha</to><enabled>Y</enabled> </hop>
+  <hop> <from>fb_ft_actividad_pagina</from><to>usuarios_duplicados</to><enabled>Y</enabled> </hop>
+  <hop> <from>Stream cant_posts</from><to>ordeno usr id fecha</to><enabled>Y</enabled> </hop>
+  <hop> <from>ordeno usr id fecha</from><to>un registro por fecha</to><enabled>Y</enabled> </hop>
+  <hop> <from>Select values</from><to>fb_dim_pagina</to><enabled>Y</enabled> </hop>
+  <hop> <from>cant_posts_ayer</from><to>si es nulo antes ayer, asigna ayer</to><enabled>Y</enabled> </hop>
+  <hop> <from>si es nulo antes ayer, asigna ayer</from><to>cant_posts_nuevos</to><enabled>Y</enabled> </hop>
+  <hop> <from>dim_cuentas_vinculadas</from><to>fb_ft_act_pag</to><enabled>N</enabled> </hop>
+  </order>
+  <step>
+    <name>Dia -1</name>
+    <type>AnalyticQuery</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+      <group>
+        <field>
+          <name>usuario_pentaho</name>
+        </field>
+        <field>
+          <name>id_pagina</name>
+        </field>
+      </group>
+      <fields>
+        <field>
+          <aggregate>megusta_1</aggregate>
+          <subject>megusta</subject>
+          <type>LEAD</type>
+          <valuefield>1</valuefield>
+        </field>
+        <field>
+          <aggregate>hablando_1</aggregate>
+          <subject>hablando</subject>
+          <type>LEAD</type>
+          <valuefield>1</valuefield>
+        </field>
+        <field>
+          <aggregate>estaalli_1</aggregate>
+          <subject>estaalli</subject>
+          <type>LEAD</type>
+          <valuefield>1</valuefield>
+        </field>
+      </fields>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>803</xloc>
+      <yloc>150</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>Formula</name>
+    <type>Formula</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+       <formula><field_name>megusta_nuevos</field_name>
+<formula_string>if&#x28;isblank&#x28;&#x5b;megusta_1&#x5d;&#x29;&#x3b;&#x5b;megusta&#x5d;&#x3b;&#x5b;megusta_1&#x5d;&#x29;</formula_string>
+<value_type>Integer</value_type>
+<value_length>-1</value_length>
+<value_precision>-1</value_precision>
+<replace_field>megusta_1</replace_field>
+</formula>
+       <formula><field_name>hablando_nuevos</field_name>
+<formula_string>if&#x28;isblank&#x28;&#x5b;hablando_1&#x5d;&#x29;&#x3b;&#x5b;hablando&#x5d;&#x3b;&#x5b;hablando_1&#x5d;&#x29;</formula_string>
+<value_type>Integer</value_type>
+<value_length>-1</value_length>
+<value_precision>-1</value_precision>
+<replace_field>hablando_1</replace_field>
+</formula>
+       <formula><field_name>estaalli_nuevos</field_name>
+<formula_string>if&#x28;isblank&#x28;&#x5b;estaalli_1&#x5d;&#x29;&#x3b;&#x5b;estaalli&#x5d;&#x3b;&#x5b;estaalli_1&#x5d;&#x29;</formula_string>
+<value_type>Integer</value_type>
+<value_length>-1</value_length>
+<value_precision>-1</value_precision>
+<replace_field>estaalli_1</replace_field>
+</formula>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>883</xloc>
+      <yloc>150</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>Select values</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <fields>        <select_unspecified>N</select_unspecified>
+      <meta>        <name>fecha_insercion</name>
+        <rename>fecha_insercion</rename>
+        <type>Date</type>
+        <length>-2</length>
+        <precision>-2</precision>
+        <conversion_mask>yyyy-MM-dd</conversion_mask>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>    </fields>     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>260</xloc>
+      <yloc>150</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>Stream cant_posts</name>
+    <type>StreamLookup</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <from>cant_posts_nuevos</from>
+    <input_sorted>N</input_sorted>
+    <preserve_memory>Y</preserve_memory>
+    <sorted_list>N</sorted_list>
+    <integer_pair>N</integer_pair>
+    <lookup>
+      <key>
+        <name>id_pagina</name>
+        <field>id_pagina</field>
+      </key>
+      <value>
+        <name>cant_posts_ayer</name>
+        <rename>cant_posts</rename>
+        <default>0</default>
+        <type>Integer</type>
+      </value>
+      <value>
+        <name>cant_posts_nuevos</name>
+        <rename>cant_posts_nuevos</rename>
+        <default>0</default>
+        <type>Integer</type>
+      </value>
+    </lookup>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>472</xloc>
+      <yloc>149</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>cant_posts_ayer</name>
+    <type>GroupBy</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+      <all_rows>N</all_rows>
+      <ignore_aggregate>N</ignore_aggregate>
+      <field_ignore/>
+      <directory>&#x25;&#x25;java.io.tmpdir&#x25;&#x25;</directory>
+      <prefix>grp</prefix>
+      <add_linenr>N</add_linenr>
+      <linenr_fieldname/>
+      <give_back_row>N</give_back_row>
+      <group>
+        <field>
+          <name>id_pagina</name>
+        </field>
+      </group>
+      <fields>
+        <field>
+          <aggregate>cant_posts_ayer</aggregate>
+          <subject>id_post</subject>
+          <type>COUNT_DISTINCT</type>
+          <valuefield/>
+        </field>
+        <field>
+          <aggregate>cant_posts_anteayer</aggregate>
+          <subject>cant_posts_anteayer</subject>
+          <type>FIRST_INCL_NULL</type>
+          <valuefield/>
+        </field>
+      </fields>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>240</xloc>
+      <yloc>270</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>cant_posts_nuevos</name>
+    <type>Calculator</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+       <calculation><field_name>cant_posts_nuevos</field_name>
+<calc_type>SUBTRACT</calc_type>
+<field_a>cant_posts_ayer</field_a>
+<field_b>cant_posts_anteayer</field_b>
+<field_c/>
+<value_type>Integer</value_type>
+<value_length>-1</value_length>
+<value_precision>-1</value_precision>
+<remove>N</remove>
+<conversion_mask/>
+<decimal_symbol/>
+<grouping_symbol/>
+<currency_symbol/>
+</calculation>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>470</xloc>
+      <yloc>270</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>cantidades_nuevos</name>
+    <type>Calculator</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+       <calculation><field_name>cantidad_estaalli_nuevos</field_name>
+<calc_type>SUBTRACT</calc_type>
+<field_a>estaalli</field_a>
+<field_b>estaalli_1</field_b>
+<field_c/>
+<value_type>Integer</value_type>
+<value_length>-1</value_length>
+<value_precision>-1</value_precision>
+<remove>N</remove>
+<conversion_mask/>
+<decimal_symbol/>
+<grouping_symbol/>
+<currency_symbol/>
+</calculation>
+       <calculation><field_name>cantidad_megusta_nuevos</field_name>
+<calc_type>SUBTRACT</calc_type>
+<field_a>megusta</field_a>
+<field_b>megusta_1</field_b>
+<field_c/>
+<value_type>Integer</value_type>
+<value_length>-1</value_length>
+<value_precision>-1</value_precision>
+<remove>N</remove>
+<conversion_mask/>
+<decimal_symbol/>
+<grouping_symbol/>
+<currency_symbol/>
+</calculation>
+       <calculation><field_name>cantidad_hablando_nuevos</field_name>
+<calc_type>SUBTRACT</calc_type>
+<field_a>hablando</field_a>
+<field_b>hablando_1</field_b>
+<field_c/>
+<value_type>Integer</value_type>
+<value_length>-1</value_length>
+<value_precision>-1</value_precision>
+<remove>N</remove>
+<conversion_mask/>
+<decimal_symbol/>
+<grouping_symbol/>
+<currency_symbol/>
+</calculation>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>983</xloc>
+      <yloc>150</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>dim_cuentas_vinculadas</name>
+    <type>DBLookup</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <connection>data_bi</connection>
+    <cache>N</cache>
+    <cache_load_all>N</cache_load_all>
+    <cache_size>0</cache_size>
+    <lookup>
+      <schema>social_media</schema>
+      <table>dim_cuentas_vinculadas</table>
+      <orderby/>
+      <fail_on_multiple>N</fail_on_multiple>
+      <eat_row_on_failure>N</eat_row_on_failure>
+      <key>
+        <name>sk_pagina_fb</name>
+        <field>sk_pagina_fb</field>
+        <condition>&#x3d;</condition>
+        <name2/>
+      </key>
+      <key>
+        <name>usuario_pentaho</name>
+        <field>usuario_pentaho</field>
+        <condition>&#x3d;</condition>
+        <name2/>
+      </key>
+      <value>
+        <name>sk_cuentas_vinculadas</name>
+        <rename>sk_cuentas_vinculadas</rename>
+        <default/>
+        <type>Integer</type>
+      </value>
+    </lookup>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>1093</xloc>
+      <yloc>230</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>dim_time</name>
+    <type>DBLookup</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <connection>data_bi</connection>
+    <cache>N</cache>
+    <cache_load_all>N</cache_load_all>
+    <cache_size>0</cache_size>
+    <lookup>
+      <schema>social_media</schema>
+      <table>dim_tiempo_dia</table>
+      <orderby/>
+      <fail_on_multiple>N</fail_on_multiple>
+      <eat_row_on_failure>N</eat_row_on_failure>
+      <key>
+        <name>fecha_insercion</name>
+        <field>fecha</field>
+        <condition>&#x3d;</condition>
+        <name2/>
+      </key>
+      <value>
+        <name>id_tiempo_dia</name>
+        <rename>sk_time</rename>
+        <default/>
+        <type>Integer</type>
+      </value>
+    </lookup>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>1093</xloc>
+      <yloc>150</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>fb_dim_pagina</name>
+    <type>DBLookup</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <connection>data_bi</connection>
+    <cache>N</cache>
+    <cache_load_all>N</cache_load_all>
+    <cache_size>0</cache_size>
+    <lookup>
+      <schema>social_media</schema>
+      <table>fb_dim_pagina</table>
+      <orderby/>
+      <fail_on_multiple>N</fail_on_multiple>
+      <eat_row_on_failure>N</eat_row_on_failure>
+      <key>
+        <name>usuario_pentaho</name>
+        <field>usuario_pentaho</field>
+        <condition>&#x3d;</condition>
+        <name2/>
+      </key>
+      <key>
+        <name>id_pagina</name>
+        <field>id_pagina</field>
+        <condition>&#x3d;</condition>
+        <name2/>
+      </key>
+      <value>
+        <name>sk_pagina_fb</name>
+        <rename>sk_pagina_fb</rename>
+        <default>-1</default>
+        <type>Integer</type>
+      </value>
+    </lookup>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>362</xloc>
+      <yloc>149</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>fb_ft_act_pag</name>
+    <type>TextFileOutput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <separator>&#x3b;</separator>
+    <enclosure>&#x22;</enclosure>
+    <enclosure_forced>N</enclosure_forced>
+    <enclosure_fix_disabled>N</enclosure_fix_disabled>
+    <header>Y</header>
+    <footer>N</footer>
+    <format>DOS</format>
+    <compression>None</compression>
+    <encoding>windows-1252</encoding>
+    <endedLine/>
+    <fileNameInField>N</fileNameInField>
+    <fileNameField/>
+    <create_parent_folder>Y</create_parent_folder>
+    <file>
+      <name>&#x24;&#x7b;Internal.Transformation.Filename.Directory&#x7d;&#x2f;..&#x2f;..&#x2f;outputs&#x2f;fb_ft_act_pag</name>
+      <is_command>N</is_command>
+      <servlet_output>N</servlet_output>
+      <do_not_open_new_file_init>N</do_not_open_new_file_init>
+      <extention>csv</extention>
+      <append>N</append>
+      <split>N</split>
+      <haspartno>N</haspartno>
+      <add_date>N</add_date>
+      <add_time>N</add_time>
+      <SpecifyFormat>N</SpecifyFormat>
+      <date_time_format/>
+      <add_to_result_filenames>Y</add_to_result_filenames>
+      <pad>N</pad>
+      <fast_dump>N</fast_dump>
+      <splitevery>0</splitevery>
+    </file>
+    <fields>
+      <field>
+        <name>fecha_insercion</name>
+        <type>Date</type>
+        <format>yyyy-MM-dd</format>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>usuario_pentaho</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>id_pagina</name>
+        <type>BigNumber</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>megusta</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>hablando</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>estaalli</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>fecha</name>
+        <type>Date</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>sk_pagina_fb</name>
+        <type>Integer</type>
+        <format>&#x23;&#x3b;-&#x23;</format>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>9</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>cant_posts</name>
+        <type>Integer</type>
+        <format>&#x23;&#x3b;-&#x23;</format>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>10</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>cant_posts_nuevos</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>megusta_1</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>hablando_1</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>estaalli_1</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>cantidad_estaalli_nuevos</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>cantidad_megusta_nuevos</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>cantidad_hablando_nuevos</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>sk_time</name>
+        <type>Integer</type>
+        <format>&#x23;&#x3b;-&#x23;</format>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>9</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>sk_cuentas_vinculadas</name>
+        <type>Integer</type>
+        <format>&#x23;&#x3b;-&#x23;</format>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>9</length>
+        <precision>0</precision>
+      </field>
+    </fields>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>757</xloc>
+      <yloc>245</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>fb_ft_actividad_pagina</name>
+    <type>TableOutput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <connection>data_bi</connection>
+    <schema>social_media</schema>
+    <table>fb_ft_actividad_pagina</table>
+    <commit>1000</commit>
+    <truncate>N</truncate>
+    <ignore_errors>N</ignore_errors>
+    <use_batch>N</use_batch>
+    <specify_fields>Y</specify_fields>
+    <partitioning_enabled>N</partitioning_enabled>
+    <partitioning_field/>
+    <partitioning_daily>N</partitioning_daily>
+    <partitioning_monthly>Y</partitioning_monthly>
+    <tablename_in_field>N</tablename_in_field>
+    <tablename_field/>
+    <tablename_in_table>Y</tablename_in_table>
+    <return_keys>N</return_keys>
+    <return_field/>
+    <fields>
+        <field>
+          <column_name>id_tiempo_dia</column_name>
+          <stream_name>sk_time</stream_name>
+        </field>
+        <field>
+          <column_name>sk_pagina_fb</column_name>
+          <stream_name>sk_pagina_fb</stream_name>
+        </field>
+        <field>
+          <column_name>cantidad_megusta</column_name>
+          <stream_name>megusta</stream_name>
+        </field>
+        <field>
+          <column_name>cantidad_megusta_nuevos</column_name>
+          <stream_name>cantidad_megusta_nuevos</stream_name>
+        </field>
+        <field>
+          <column_name>cantidad_hablando</column_name>
+          <stream_name>hablando</stream_name>
+        </field>
+        <field>
+          <column_name>cantidad_hablando_nuevos</column_name>
+          <stream_name>cantidad_hablando_nuevos</stream_name>
+        </field>
+        <field>
+          <column_name>cantidad_estaalli</column_name>
+          <stream_name>estaalli</stream_name>
+        </field>
+        <field>
+          <column_name>cantidad_estaalli_nuevos</column_name>
+          <stream_name>cantidad_estaalli_nuevos</stream_name>
+        </field>
+        <field>
+          <column_name>sk_cuentas_vinculadas</column_name>
+          <stream_name>sk_cuentas_vinculadas</stream_name>
+        </field>
+        <field>
+          <column_name>cant_posts</column_name>
+          <stream_name>cant_posts</stream_name>
+        </field>
+        <field>
+          <column_name>cant_posts_nuevos</column_name>
+          <stream_name>cant_posts_nuevos</stream_name>
+        </field>
+    </fields>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>953</xloc>
+      <yloc>320</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>fb_pages</name>
+    <type>MongoDbInput</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <hostname>localhost</hostname>
+    <port>27017</port>
+    <use_all_replica_members>N</use_all_replica_members>
+    <db_name>SocialMedia</db_name>
+    <fields_name/>
+    <collection>fb_pages</collection>
+    <json_field_name>salida</json_field_name>
+    <json_query>&#x7b;&#x22;id_tipo_busquedas&#x22;&#x3a;7,&#x22;fecha_insercion&#x22;&#x3a;&#x7b; &#x24;gte &#x3a; &#x7b; &#x24;date &#x3a; &#x22;&#x24;&#x7b;fecha_antes_ayer_fb&#x7d;&#x22;&#x7d;, &#x24;lt &#x3a; &#x7b; &#x24;date &#x3a; &#x22;&#x24;&#x7b;fecha_hasta_fb&#x7d;&#x22;&#x7d; &#x7d;&#x7d;</json_query>
+    <auth_user/>
+    <auth_password>Encrypted </auth_password>
+    <auth_kerberos>N</auth_kerberos>
+    <connect_timeout/>
+    <socket_timeout/>
+    <read_preference/>
+    <output_json>N</output_json>
+    <query_is_pipeline>N</query_is_pipeline>
+    <execute_for_each_row>N</execute_for_each_row>
+
+    <mongo_fields>
+      <mongo_field>
+        <field_name>fecha_insercion</field_name>
+
+        <field_path>&#x24;.fecha_insercion</field_path>
+
+        <field_type>Date</field_type>
+
+      </mongo_field>
+      <mongo_field>
+        <field_name>usuario_pentaho</field_name>
+
+        <field_path>&#x24;.usr</field_path>
+
+        <field_type>String</field_type>
+
+      </mongo_field>
+      <mongo_field>
+        <field_name>id_pagina</field_name>
+
+        <field_path>&#x24;.page.id</field_path>
+
+        <field_type>BigNumber</field_type>
+
+      </mongo_field>
+      <mongo_field>
+        <field_name>megusta</field_name>
+
+        <field_path>&#x24;.page.likes</field_path>
+
+        <field_type>Integer</field_type>
+
+      </mongo_field>
+      <mongo_field>
+        <field_name>hablando</field_name>
+
+        <field_path>&#x24;.page.talking_about_count</field_path>
+
+        <field_type>Integer</field_type>
+
+      </mongo_field>
+      <mongo_field>
+        <field_name>estaalli</field_name>
+
+        <field_path>&#x24;.page.were_here_count</field_path>
+
+        <field_type>Integer</field_type>
+
+      </mongo_field>
+    </mongo_fields>     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>40</xloc>
+      <yloc>150</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>fb_posts</name>
+    <type>TableInput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <connection>data_bi</connection>
+    <sql>select posts.id_pagina, posts.id_post, cant_posts cant_posts_anteayer&#xd;&#xa;from&#xd;&#xa;&#x28;&#xd;&#xa;	SELECT distinct fp.id_pagina, fp.id_post, dp.sk_pagina_fb&#xd;&#xa;	FROM social_media.fb_posts fp&#xd;&#xa;	inner join&#xd;&#xa;	social_media.fb_dim_pagina dp&#xd;&#xa;	on fp.id_pagina &#x3d; dp.id_pagina&#xd;&#xa;	where fp.fecha_creacion &#x3c;&#x3d; to_date&#x28;left&#x28;&#x27;&#x24;&#x7b;fecha_desde_fb&#x7d;&#x27;,10&#x29;,&#x27;yyyy-mm-dd&#x27;&#x29;&#xd;&#xa;&#x29; posts&#xd;&#xa;left join&#xd;&#xa;&#x28;&#xd;&#xa;	select sk_pagina_fb, cant_posts from&#xd;&#xa;	social_media.fb_ft_actividad_pagina&#xd;&#xa;	where id_tiempo_dia &#x3d; cast&#x28;to_char&#x28;to_date&#x28;left&#x28;&#x27;&#x24;&#x7b;fecha_antes_ayer_fb&#x7d;&#x27;,10&#x29;,&#x27;yyyy-mm-dd&#x27;&#x29;, &#x27;yyyyMMdd&#x27;&#x29; as integer&#x29;&#xd;&#xa;&#x29; fact&#xd;&#xa;on posts.sk_pagina_fb&#x3d;fact.sk_pagina_fb&#xd;&#xa;order by id_pagina</sql>
+    <limit>0</limit>
+    <lookup/>
+    <execute_each_row>N</execute_each_row>
+    <variables_active>Y</variables_active>
+    <lazy_conversion_active>N</lazy_conversion_active>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>147</xloc>
+      <yloc>278</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>fecha sin hora</name>
+    <type>Calculator</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+       <calculation><field_name>fecha</field_name>
+<calc_type>REMOVE_TIME_FROM_DATE</calc_type>
+<field_a>fecha_insercion</field_a>
+<field_b/>
+<field_c/>
+<value_type>None</value_type>
+<value_length>-1</value_length>
+<value_precision>-1</value_precision>
+<remove>N</remove>
+<conversion_mask/>
+<decimal_symbol/>
+<grouping_symbol/>
+<currency_symbol/>
+</calculation>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>160</xloc>
+      <yloc>150</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>ordeno usr id fecha</name>
+    <type>SortRows</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+      <directory>&#x25;&#x25;java.io.tmpdir&#x25;&#x25;</directory>
+      <prefix>out</prefix>
+      <sort_size>1000000</sort_size>
+      <free_memory/>
+      <compress>N</compress>
+      <compress_variable/>
+      <unique_rows>Y</unique_rows>
+    <fields>
+      <field>
+        <name>usuario_pentaho</name>
+        <ascending>Y</ascending>
+        <case_sensitive>N</case_sensitive>
+        <presorted>N</presorted>
+      </field>
+      <field>
+        <name>id_pagina</name>
+        <ascending>Y</ascending>
+        <case_sensitive>N</case_sensitive>
+        <presorted>N</presorted>
+      </field>
+      <field>
+        <name>fecha_insercion</name>
+        <ascending>N</ascending>
+        <case_sensitive>N</case_sensitive>
+        <presorted>N</presorted>
+      </field>
+    </fields>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>598</xloc>
+      <yloc>150</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>si es nulo antes ayer, asigna ayer</name>
+    <type>Formula</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+       <formula><field_name>cant_posts_aa</field_name>
+<formula_string>if&#x28;isblank&#x28;&#x5b;cant_posts_anteayer&#x5d;&#x29;&#x3b;&#x5b;cant_posts_ayer&#x5d;&#x3b;&#x5b;cant_posts_anteayer&#x5d;&#x29;</formula_string>
+<value_type>Integer</value_type>
+<value_length>-1</value_length>
+<value_precision>-1</value_precision>
+<replace_field>cant_posts_anteayer</replace_field>
+</formula>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>355</xloc>
+      <yloc>292</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>ult fecha</name>
+    <type>Unique</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+      <count_rows>N</count_rows>
+      <count_field/>
+      <reject_duplicate_row>N</reject_duplicate_row>
+      <error_description/>
+    <fields>      <field>        <name>usuario_pentaho</name>
+        <case_insensitive>N</case_insensitive>
+        </field>      <field>        <name>sk_pagina_fb</name>
+        <case_insensitive>N</case_insensitive>
+        </field>      </fields>     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>1093</xloc>
+      <yloc>320</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>un registro por fecha</name>
+    <type>Unique</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+      <count_rows>N</count_rows>
+      <count_field/>
+      <reject_duplicate_row>N</reject_duplicate_row>
+      <error_description/>
+    <fields>      <field>        <name>usuario_pentaho</name>
+        <case_insensitive>N</case_insensitive>
+        </field>      <field>        <name>sk_pagina_fb</name>
+        <case_insensitive>N</case_insensitive>
+        </field>      <field>        <name>fecha</name>
+        <case_insensitive>N</case_insensitive>
+        </field>      </fields>     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>723</xloc>
+      <yloc>150</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>usuarios_duplicados</name>
+    <type>TextFileOutput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <separator>&#x3b;</separator>
+    <enclosure>&#x22;</enclosure>
+    <enclosure_forced>N</enclosure_forced>
+    <enclosure_fix_disabled>N</enclosure_fix_disabled>
+    <header>Y</header>
+    <footer>N</footer>
+    <format>DOS</format>
+    <compression>None</compression>
+    <encoding>windows-1252</encoding>
+    <endedLine/>
+    <fileNameInField>N</fileNameInField>
+    <fileNameField/>
+    <create_parent_folder>Y</create_parent_folder>
+    <file>
+      <name>&#x24;&#x7b;Internal.Transformation.Filename.Directory&#x7d;&#x2f;..&#x2f;..&#x2f;outputs&#x2f;usuarios_duplicados</name>
+      <is_command>N</is_command>
+      <servlet_output>N</servlet_output>
+      <do_not_open_new_file_init>N</do_not_open_new_file_init>
+      <extention>csv</extention>
+      <append>N</append>
+      <split>N</split>
+      <haspartno>N</haspartno>
+      <add_date>N</add_date>
+      <add_time>N</add_time>
+      <SpecifyFormat>N</SpecifyFormat>
+      <date_time_format/>
+      <add_to_result_filenames>Y</add_to_result_filenames>
+      <pad>N</pad>
+      <fast_dump>N</fast_dump>
+      <splitevery>0</splitevery>
+    </file>
+    <fields>
+      <field>
+        <name>fecha_insercion</name>
+        <type>Date</type>
+        <format>yyyy&#x2f;MM&#x2f;dd</format>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>usuario_pentaho</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>id_pagina</name>
+        <type>BigNumber</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>megusta</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>hablando</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>estaalli</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>cantidad_estaalli_nuevos</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>cantidad_megusta_nuevos</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>cantidad_hablando_nuevos</name>
+        <type>Integer</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>-1</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>sk_pagina_fb</name>
+        <type>Integer</type>
+        <format>&#x23;&#x3b;-&#x23;</format>
+        <currency/>
+        <decimal>,</decimal>
+        <group>.</group>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>9</length>
+        <precision>0</precision>
+      </field>
+      <field>
+        <name>error</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>500</length>
+        <precision>-1</precision>
+      </field>
+      <field>
+        <name>err2</name>
+        <type>String</type>
+        <format/>
+        <currency/>
+        <decimal/>
+        <group/>
+        <nullif/>
+        <trim_type>none</trim_type>
+        <length>500</length>
+        <precision>-1</precision>
+      </field>
+    </fields>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>813</xloc>
+      <yloc>320</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step_error_handling>
+      <error>
+        <source_step>fb_ft_actividad_pagina</source_step>
+        <target_step>usuarios_duplicados</target_step>
+        <is_enabled>Y</is_enabled>
+        <nr_valuename/>
+        <descriptions_valuename>error</descriptions_valuename>
+        <fields_valuename>err2</fields_valuename>
+        <codes_valuename/>
+        <max_errors/>
+        <max_pct_errors/>
+        <min_pct_rows/>
+      </error>
+  </step_error_handling>
+   <slave-step-copy-partition-distribution>
+</slave-step-copy-partition-distribution>
+   <slave_transformation>N</slave_transformation>
+
+</transformation>

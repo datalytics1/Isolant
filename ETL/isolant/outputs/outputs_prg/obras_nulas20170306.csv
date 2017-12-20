@@ -1,0 +1,18 @@
+cod_promotor;cod_obra;direccion;cod_localidad;cod_provincia;cp;mts2;tipo_obra;etapa_avance;cod_constructora;cod_contconstructora;cod_proyecto;cod_contproyecto;cod_techista;fecha_est_cub;cod_country
+GJ;GJ01007;Juan Olivera 544  Larroque;;07;;240;5;8;;;GJ03785;GJ03786;;2016/10/31 00:00:00.000000000;
+GJ;GJ01008;Pronunciacion 124  Larroque;;07;;2600;2;8;;;;GJ03787;;2016/12/30 00:00:00.000000000;
+GJ;GJ01010;n , Rosario del Tala;;07;;160;2;8;;;GJ03790;;;2016/10/31 00:00:00.000000000;
+GJ;GJ01034;Ruta 130 acc Villa Elisa;;07;;2400;5;1;;;;GJ03571;;2016/12/30 00:00:00.000000000;
+GJ;GJ01036;Ruta acceso a La clarita;;07;;240;5;5;;;;GJ03838;;2016/10/28 00:00:00.000000000;
+GJ;GJ01050;Av. San Martin 1790, Gob. Virasoro;;06;;1360;5;5;GJ03881;;;;;2016/11/30 00:00:00.000000000;
+GJ;GJ01056;Ruta 14 Acc Col. Liebig;;06;;1060;5;8;GJ03881;;;;;2016/11/30 00:00:00.000000000;
+GJ;GJ01060;RN 12 y Andres Guacurari, Garuape;;13;;1350;5;5;;;;GJ02089;;2016/12/30 00:00:00.000000000;
+GJ;GJ01061;Ruta 14 Km 321,  Concepción de Uruguay;;07;;1200;5;1;;;GJ03467;;;2017/02/28 00:00:00.000000000;
+GJ;GJ01098;Av Raul Alfonsin 1000, Capiovi;;13;;500;6;8;;;GJ03969;GJ03970;;2017/02/28 00:00:00.000000000;
+GJ;GJ01099;Niagara y San Francisco, Jardìn America;;13;;440;6;8;;;;GJ03967;;2017/01/31 00:00:00.000000000;
+GJ;GJ01102;Cro- Belgrano y Chile, Aristobulo del valle;;13;;5200;6;8;;;;GJ03966;;2017/02/28 00:00:00.000000000;
+GJ;GJ01103;Paraguay y Malvinas, Aristobulo del Valle;;13;;500;6;5;GJ03964;;;;;2017/02/28 00:00:00.000000000;
+GJ;GJ01106;Italia y Maria Sakoloski, Aristobulo del valle;;13;;520;5;8;;;GJ03961;GJ03962;;2017/01/31 00:00:00.000000000;
+GJ;GJ01107;Navajas y San Martin, Gobernador Virasoro;;06;;400;6;8;GJ03961;;;;;2017/02/28 00:00:00.000000000;
+MM;MM02694;Circunvalacion 2 y acceso;;;;200;2;5;;;MM04489;;;2016/12/12 00:00:00.000000000;
+MM;MM02800;Saavedro 1404 Madariaga;;01;;100;2;5;;;MM04491;;;2017/12/12 00:00:00.000000000;
